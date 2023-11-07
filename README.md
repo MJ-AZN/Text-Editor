@@ -16,7 +16,7 @@ The purpose of this project is to build a text editor that runs in the browser w
 ## Usage
 This can be used when users need to get and store data to an IndexedDB database with an existing application.
 
-Link to deployed application: https://dashboard.heroku.com/apps/text-editor-by-mj/deploy/github
+Link to deployed application: https://text-editor-by-mj-3d1d1ab95404.herokuapp.com/
 
 
 ## License
